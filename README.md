@@ -4,14 +4,14 @@
 https://github.com/pfaustAPH/python-docker.git
 …or create a new repository on the command line:
 <p>echo "# temp" >> README.md</p>
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/pfaustAPH/temp.git
-git push -u origin main
+<p>git init</p>
+<p>git add README.md</p>
+<p>git commit -m "first commit"</p>
+<p>git branch -M main</p>
+<p>git remote add origin https://github.com/pfaustAPH/temp.git</p>
+<p>git push -u origin main</p>
 
 …or push an existing repository from the command line
-git remote add origin https://github.com/pfaustAPH/temp.git
-git branch -M main
-git push -u origin main
+<p>git remote add origin https://github.com/pfaustAPH/temp.git</p>
+<p>git branch -M main</p>
+<p>git push -u origin main</p>
