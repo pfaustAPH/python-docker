@@ -1,8 +1,8 @@
 # python-docker
 
 
-https://github.com/pfaustAPH/python-docker.git
-…or create a new repository on the command line:
+https://github.com/pfaustAPH/python-docker.git<br>
+…or create a new repository on the command line:<br>
 <p>echo "# temp" >> README.md</p>
 <p>git init<br>
 git add README.md<br>
