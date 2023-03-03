@@ -3,7 +3,7 @@
 
 https://github.com/pfaustAPH/python-docker.git
 …or create a new repository on the command line:
-echo "# temp" >> README.md
+<p>echo "# temp" >> README.md</p>
 git init
 git add README.md
 git commit -m "first commit"
