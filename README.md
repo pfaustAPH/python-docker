@@ -8,10 +8,10 @@ https://github.com/pfaustAPH/python-docker.git<br>
 git add README.md<br>
 git commit -m "first commit"<br>
 git branch -M main<br>
-git remote add origin https://github.com/pfaustAPH/temp.git<br>
+git remote add origin https://github.com/pfaustAPH/python-docker.git<br>
 git push -u origin main<br></p>
 
 …or push an existing repository from the command line
-<p>git remote add origin https://github.com/pfaustAPH/temp.git<br>
+<p>git remote add origin https://github.com/pfaustAPH/python-docker.git<br>
 git branch -M main<br>
 git push -u origin main<br></p>
